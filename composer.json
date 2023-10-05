@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "PayPal",
-            "homepage": "https://gitlab.skuola.net/skuola/paypal-adaptivepayments-sdk-php/contributors"
+            "homepage": "https://github.com/skuola/paypal-adaptivepayments-sdk-php/contributors"
         }
     ],
     "require": {
