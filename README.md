@@ -1,3 +1,4 @@
+**THIS REPOSITORY IS MOVED TO GITLAB**
 
 # PayPal PHP Adaptive Payments SDK
 
